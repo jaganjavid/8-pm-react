@@ -1,0 +1,28 @@
+/* h2{
+    color: blue;
+} */
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.heading{
+    color: blue;  
+}
+
+
+.hey-buddy{
+    color: red;
+}
+
+.hey-man{
+    color:#008000;
+}
+
+p{
+    color: rgb(14, 69, 175);
+}
+
+h3{
+    color: rgba(165, 42, 42,1);
+}
